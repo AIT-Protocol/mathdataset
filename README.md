@@ -1,5 +1,7 @@
 # mathgenerator
 
+# THIS IS A MODIFIED FORK OF THE ORIGINAL REPO BY LUKEW3 [HERE](https://github.com/lukew3/mathgenerator) - ALL CREDIT TO LUKEW3
+
 A math problem generator, created for the purpose of giving teachers and students the means to easily get access to random math exercises to suit their needs.
 
 To try out generators, go to <https://mathgenerator-demo.netlify.app>
