@@ -141,3 +141,5 @@ cython_debug/
 .vscode/
 
 test.py
+
+.DS_Store
